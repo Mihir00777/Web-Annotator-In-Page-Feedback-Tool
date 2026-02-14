@@ -1,5 +1,9 @@
 # Web-Annotator-In-Page-Feedback-Tool
 
+## Getting Started
+
+Installed node modules on `annotator-ui` 
+
 # Web Annotator -- Chrome Extension
 
 ## Overview
