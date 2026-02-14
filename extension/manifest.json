@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Web Annotator",
+  "version": "1.0",
+  "description": "Add sticky note comments to any webpage.",
+  "permissions": ["storage", "activeTab", "scripting", "tabs"],
+  "action": {
+     "default_popup": "ui/index.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
