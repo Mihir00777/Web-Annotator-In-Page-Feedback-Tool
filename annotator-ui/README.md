@@ -1,6 +1,6 @@
 ## Getting Started
 
-Installed node modules on `annotator-ui`
+Installed node modules on `annotator-ui` 
 
 # Web Annotator -- Chrome Extension
 
